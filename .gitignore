@@ -1,0 +1,12 @@
+etc/dnsmasq.d/
+etc/pihole/GitHubVersions
+etc/pihole/gravity.list
+etc/pihole/list.*
+etc/pihole/local.list
+etc/pihole/localbranches
+etc/pihole/localversions
+etc/pihole/pihole-FTL.conf
+etc/pihole/pihole-FTL.db
+etc/pihole/regex.list
+etc/pihole/setupVars.conf
+etc/pihole/setupVars.conf.update.bak
