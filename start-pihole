@@ -16,4 +16,6 @@ docker run -d                                  \
     --dns=127.0.0.1 --dns=1.1.1.1              \
     pihole/pihole:latest
 
+sleep 5
+
 docker ps -a
